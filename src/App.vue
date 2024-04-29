@@ -8,7 +8,6 @@ function play(element) {
 <template>
 <div class="container">
   <h1>Tati's Camera Collection</h1>
-  <p>The intention behind this app is to preserve design history with not only pictures but also sound! My camera collection has been gathered from various sources like my grandfather's attic, garage sales, and ebay. Analog cameras are a lost art. This is my tribute to honoring the design and thoughtfulness behind its mechanics. Below is a key indicating which of the cameras are rare.</p>
   <div class="key">
     <div class="dot"></div>
     <span class="legendtext">rare</span>
